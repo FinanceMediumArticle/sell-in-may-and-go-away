@@ -23,6 +23,8 @@ This repo supports the Medium article titled **"Sell in May and Go Away — Does
 
 The article explains the history behind the saying and uses data from popular market indexes and ETFs to see if the pattern still holds true. The results show that broad-market indexes continue to follow this pattern, while tech-focused funds show a weaker effect.
 
+https://medium.datadriveninvestor.com/sell-in-may-and-go-away-ba48f2d8296e
+
 ## What This Project Does
 
 * Downloads historical price data for major stock indexes and ETFs
